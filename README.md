@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster FundVaulte*
+# WEB102 Prework - *Sea Monster CrowdFunding*
 
 Submitted by: **Boluwarin Dairo**
 
@@ -42,7 +42,7 @@ I did not encounter any challenges when building the app. The prompts were detai
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Boluwarin Dairo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
