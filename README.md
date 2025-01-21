@@ -25,7 +25,7 @@ A link which can be clicked to donate would be a great functionality to add.
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/xZYrWqH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/xZYrWqH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
@@ -37,7 +37,8 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
-I did not encounter any challenges. The challenges were detailed, clear and easy to follow.
+
+I did not encounter any challenges when building the app. The prompts were detailed, clear and easy to follow.
 
 ## License
 
